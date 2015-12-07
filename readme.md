@@ -1,6 +1,6 @@
 # XPath
 
-[![License](https://img.shields.io/github/license/mntone/XPath.svg?style=flat-square)](https://github.com/mntone/XPath/blob/master/LICENSE.txt)
+[![Build status](https://img.shields.io/appveyor/ci/mntone/XPath/master.svg?style=flat-square)](https://ci.appveyor.com/project/mntone/XPath) [![NuGet](https://img.shields.io/nuget/v/Mntone.XPath.svg?style=flat-square)](https://www.nuget.org/packages/Mntone.XPath/) [![Downloads](https://img.shields.io/nuget/dt/Mntone.XPath.svg?style=flat-square)](https://www.nuget.org/packages/Mntone.XPath/) [![License](https://img.shields.io/github/license/mntone/XPath.svg?style=flat-square)](https://github.com/mntone/XPath/blob/master/LICENSE.txt)
 
 This is simplified xpath function generator for .NET.
 
