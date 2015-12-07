@@ -2,7 +2,7 @@
 using System.Reflection;
 using Mntone.XPath.Internal;
 
-[assembly: AssemblyTitle(AssemblyInfo.QualifiedName)]
+[assembly: AssemblyTitle(AssemblyInfo.Name)]
 [assembly: AssemblyDescription(AssemblyInfo.Description)]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany(AssemblyInfo.Author)]
@@ -19,8 +19,8 @@ namespace Mntone.XPath.Internal
 {
 	internal static class AssemblyInfo
 	{
-		public const string Name = "Mntone.Xpath";
-		public const string QualifiedName = "Xpath";
+		public const string Name = "Mntone.XPath";
+		public const string QualifiedName = "XPath";
 		public const string Description = "Simplified xpath function generator for .NET";
 		public const string Version = "0.9.0.0";
 		public const string Author = "mntone";
